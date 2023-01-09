@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Vue笔记</title>
+      <link href="/2023/01/07/Vue%E7%AC%94%E8%AE%B0/"/>
+      <url>/2023/01/07/Vue%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-7"><a href="#1-7" class="headerlink" title="1.7"></a>1.7</h2><p>关于 Vue 组件化说法错误的是（ ）<br>A<br>所谓组件化，就是把页面拆分成多个组件 (component)，每个组件依赖的 CSS、JavaScript、模板、图片等资源放在一起开发和维护<br>B<br>组件是资源独立的，组件在系统内部可复用，但是组件和组件之间不可以嵌套<br>C<br>vue 的组件之间可以进行通信<br>D<br>组件化能提高开发效率，方便重复使用，简化调试步骤，提升项目可维护性，便于多人协同开发</p><details class="folding-tag" cyan><summary> 解析 </summary>              <div class='content'>              <p>组件是资源独立的，组件在系统内部可复用，而且组件和组件之间可以嵌套</p><div class="reference-source"><span class="hidden-anchor" id="referfrom_[1]"></span><a class="reference-anchor" href="#referto_[1]">[1]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://vue3js.cn/interview/vue/components_plugin.html#%E4%B8%80%E3%80%81%E7%BB%84%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88">组件</a></div>              </div>            </details><hr><p>下列关于 v-model 的说法，哪项是不正确的是（ ）<br>A<br>v-model 如果为不同元素绑定数据，则使用不同的元素 property， 并抛出不同的事件<br>B<br>v-model 本质上是语法糖，它负责监听用户的输入事件以更新数据<br>C<br>v-model 是内置指令，不能用在自定义组件上<br>D<br>对 input 使用 v-model，实际上是指定其 :value 和 input 事件</p><details class="folding-tag" cyan><summary> 解析 </summary>              <div class='content'>              <p>vue2.2+版本新增了一个功能，可以在自定义组件上使用 v-model 实现双向绑定</p><div class="reference-source"><span class="hidden-anchor" id="referfrom_[1]"></span><a class="reference-anchor" href="#referto_[1]">[1]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://v2.cn.vuejs.org/v2/api/#v-model">v-model</a></div>              </div>            </details><hr><p>以下不是 vue 内置指令的是（ ）<br>A<br>v-html<br>B<br>v-on<br>C<br>v-for<br>D<br>v-hidden</p><details class="folding-tag" cyan><summary> 解析 </summary>              <div class='content'>              <p>没有 v-hidden 指令</p><div class="reference-source"><span class="hidden-anchor" id="referfrom_[1]"></span><a class="reference-anchor" href="#referto_[1]">[1]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://v2.cn.vuejs.org/v2/api/#v-html">v-html</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_[2]"></span><a class="reference-anchor" href="#referto_[2]">[2]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://v2.cn.vuejs.org/v2/api/#v-on">v-on</a></div><div class="reference-source"><span class="hidden-anchor" id="referfrom_[3]"></span><a class="reference-anchor" href="#referto_[3]">[3]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://v2.cn.vuejs.org/v2/api/#v-for">v-for</a></div>              </div>            </details><hr><p>下列关于v-for说法错误的是（   ）<br>A<br>v-for指令基于一个数组来渲染一个列表<br>B<br>v-for指令需要使用item in items形式的特殊语法，其中items是源数据数组，而item则是被迭代的数组元素的别名<br>C<br>不可以用v-for来遍历一个对象的property<br>D<br>v-for在使用的时候最好添加key，且key最好不是索引</p><details class="folding-tag" cyan><summary> 解析 </summary>              <div class='content'>              <p>可以用v-for来遍历一个对象的property</p><div class="reference-source"><span class="hidden-anchor" id="referfrom_[3]"></span><a class="reference-anchor" href="#referto_[3]">[3]<div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://v2.cn.vuejs.org/v2/api/#v-for">v-for</a></div>              </div>            </details><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日志 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>javascript笔记</title>
       <link href="/2023/01/04/javascript%E7%AC%94%E8%AE%B0/"/>
       <url>/2023/01/04/javascript%E7%AC%94%E8%AE%B0/</url>
@@ -84,7 +103,7 @@
       <link href="/2022/11/17/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
       <url>/2022/11/17/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</url>
       
-        <content type="html"><![CDATA[<h2 id="12-15"><a href="#12-15" class="headerlink" title="12.15"></a>12.15</h2><p>添加 Aplayer 音乐播放器,并添加了全局吸底</p><p>代码高亮优化，加好看的边框</p><h2 id="12-19"><a href="#12-19" class="headerlink" title="12.19"></a>12.19</h2><p>剑指 Offer 双指针</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="12-15"><a href="#12-15" class="headerlink" title="12.15"></a>12.15</h2><p>添加 Aplayer 音乐播放器,并添加了全局吸底</p><p>代码高亮优化，加好看的边框</p><h2 id="12-19"><a href="#12-19" class="headerlink" title="12.19"></a>12.19</h2><p>剑指 Offer 双指针</p><h2 id="1-7"><a href="#1-7" class="headerlink" title="1.7"></a>1.7</h2><p>Vue 笔记</p><div class="reference-source"><span class="hidden-anchor" id="referfrom_"></span><a class="reference-anchor" href="#referto_"><div class="reference-anchor-up fa-solid fa-angles-up"></div></a><a class="reference-link" href="https://v2.cn.vuejs.org/v2/api/#%E6%8C%87%E4%BB%A4">指令</a></div>]]></content>
       
       
       <categories>
