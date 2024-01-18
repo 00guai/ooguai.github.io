@@ -314,28 +314,6 @@
     
     
     <entry>
-      <title>便携小空调 - 为你的夏日带去清凉!</title>
-      <link href="/air-conditioner/index.html"/>
-      <url>/air-conditioner/index.html</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>终于为博客安装上了便携小空调</p></blockquote><style>.copyright-box a {  border-bottom: none !important;  padding: 0 !important;}</style><div id="air-conditioner-vue"></div><script defer data-pjax src='https://alist.anzhiy.cn/d/anzhiyu/air-conditioner-dev/index.2d8c3a3f.js'></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/Kimbiedark.css"/>
-      <url>/css/Kimbiedark.css</url>
-      
-        <content type="html"><![CDATA[/*    Name:     Kimbie (dark)    Author:   Jan T. Sott    License:  Creative Commons Attribution-ShareAlike 4.0 Unported License    URL:      https://github.com/idleberg/Kimbie-highlight.js*//* 新添加的内容  -------------------------------------   --hl-color                  代码框字体顔色 【必须】 (把下面.hljs的 color复制到这里来)  --hl-bg                     代码框背景色 【必须】 (把下面.hljs的 background复制到这里来)  --hltools-bg: #321a0f       代码框顶部工具栏背景色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个）  --hltools-color: #fff       代码框顶部工具栏字体顔色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个）  --hlnumber-bg: #221a0f      代码框行数背景色 【可选】(如果已经关掉 line_number,可以不用配置这个)  --hlnumber-color: #fff      代码框行数字体顔色 【可选】 (如果已经关掉 line_number,可以不用配置这个)  --hlscrollbar-bg: #d3af86   代码框滚动条顔色 【可选】（默认为主题主顔色）  --hlexpand-bg: #d3af86      代码框底部展开背景色 【可选】(如果已经关掉 highlight_height_limit,可以不用配置这个)*/:root {    --hl-color: #d3af86;    --hl-bg: #221a0f;    --hltools-bg: #321a0f;    --hltools-color: #fff;    --hlnumber-bg: #221a0f;    --hlnumber-color: #fff;    --hlscrollbar-bg: #d3af86;    --hlexpand-bg: #d3af86;  }    /* Kimbie Comment */  .hljs-comment,  .hljs-quote {    color: #d6baad;  }    /* Kimbie Red */  .hljs-variable,  .hljs-template-variable,  .hljs-tag,  .hljs-name,  .hljs-selector-id,  .hljs-selector-class,  .hljs-regexp,  .hljs-meta {    color: #dc3958;  }    /* Kimbie Orange */  .hljs-number,  .hljs-built_in,  .hljs-builtin-name,  .hljs-literal,  .hljs-type,  .hljs-params,  .hljs-deletion,  .hljs-link {    color: #f79a32;  }    /* Kimbie Yellow */  .hljs-title,  .hljs-section,  .hljs-attribute {    color: #f06431;  }    /* Kimbie Green */  .hljs-string,  .hljs-symbol,  .hljs-bullet,  .hljs-addition {    color: #889b4a;  }    /* Kimbie Purple */  .hljs-keyword,  .hljs-selector-tag,  .hljs-function {    color: #98676a;  }    /* 更改的内容 把.hljs改为 #article-container figure.highlight .hljs *、  /* ------------------------------------- */  #article-container figure.highlight .hljs {    display: block;    overflow-x: auto;    background: #221a0f;    color: #d3af86;    padding: 0.5em;  }    .hljs-emphasis {    font-style: italic;  }    .hljs-strong {    font-weight: bold;  }  ]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/OneGraph.css"/>
       <url>/css/OneGraph.css</url>
@@ -347,11 +325,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/flipcountdown.css"/>
-      <url>/css/flipcountdown.css</url>
+      <title>便携小空调 - 为你的夏日带去清凉!</title>
+      <link href="/air-conditioner/index.html"/>
+      <url>/air-conditioner/index.html</url>
       
-        <content type="html"><![CDATA[.xdsoft_flipcountdown{display:inline-block;}.xdsoft_flipcountdown .xdsoft_digit{float:left;background-repeat:no-repeat;}.xdsoft_flipcountdown .xdsoft_clearex{clear:both;float:none;}.xdsoft_flipcountdown .xdsoft_digit{background-position:0px 0px;}.xdsoft_flipcountdown .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown .xdsoft_digit.xdsoft_dot{opacity:0.9;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit{width:53px;height:76px;background-image:url(/img/digit-lg.png);}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_dot{width:14px;background-position:-19px -4620px;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_dot{background-position:-41px -4620px;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_space{background-position:-100px -4620px;}.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit{width:36px;height:51px;background-image:url(/img/digit-md.png);}.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_dot{width:10px;background-position:-13px -3120px;}.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit{width:24px;height:34px;background-image:url(/img/digit-sm.png);}.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_dot{width:10px;background-position:-6px -2100px;}.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit{width:16px;height:23px;background-image:url(/img/digit-xs.png);}.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_dot{width:5px;background-position:-5px -1440px;}]]></content>
+        <content type="html"><![CDATA[<blockquote><p>终于为博客安装上了便携小空调</p></blockquote><style>.copyright-box a {  border-bottom: none !important;  padding: 0 !important;}</style><div id="air-conditioner-vue"></div><script defer data-pjax src='https://alist.anzhiy.cn/d/anzhiyu/air-conditioner-dev/index.2d8c3a3f.js'></script>]]></content>
       
     </entry>
     
@@ -370,21 +348,10 @@
     
     <entry>
       <title></title>
-      <link href="/css/progress_bar.css"/>
-      <url>/css/progress_bar.css</url>
+      <link href="/css/Kimbiedark.css"/>
+      <url>/css/Kimbiedark.css</url>
       
-        <content type="html"><![CDATA[.pace {    -webkit-pointer-events: none;    pointer-events: none;    -webkit-user-select: none;    -moz-user-select: none;    user-select: none;    z-index: 2000;    position: fixed;    margin: auto;    top: 4px;    left: 0;    right: 0;    height: 8px;    border-radius: 8px;    width: 7rem;    background: #eaecf2;    border: 1px #e3e8f7;    overflow: hidden}.pace-inactive .pace-progress {    opacity: 0;    transition: .3s ease-in}.pace .pace-progress {    -webkit-box-sizing: border-box;    -moz-box-sizing: border-box;    -ms-box-sizing: border-box;    -o-box-sizing: border-box;    box-sizing: border-box;    -webkit-transform: translate3d(0, 0, 0);    -moz-transform: translate3d(0, 0, 0);    -ms-transform: translate3d(0, 0, 0);    -o-transform: translate3d(0, 0, 0);    transform: translate3d(0, 0, 0);    max-width: 200px;    position: absolute;    z-index: 2000;    display: block;    top: 0;    right: 100%;    height: 100%;    width: 100%;    /* linear-gradient(to right, #3494e6, #ec6ead) */    background: linear-gradient(to right, #43cea2, #3866ca);    animation: gradient 2s ease infinite;    background-size: 200%}.pace.pace-inactive {    opacity: 0;    transition: .3s;    top: -8px}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="issues-api sites"api="https://api.github.com/repos/[GithubUsername]/[GithubReponame]/issues?sort=updated&state=open&page=1&per_page=100&labels=active"></div>]]></content>
+        <content type="html"><![CDATA[/*    Name:     Kimbie (dark)    Author:   Jan T. Sott    License:  Creative Commons Attribution-ShareAlike 4.0 Unported License    URL:      https://github.com/idleberg/Kimbie-highlight.js*//* 新添加的内容  -------------------------------------   --hl-color                  代码框字体顔色 【必须】 (把下面.hljs的 color复制到这里来)  --hl-bg                     代码框背景色 【必须】 (把下面.hljs的 background复制到这里来)  --hltools-bg: #321a0f       代码框顶部工具栏背景色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个）  --hltools-color: #fff       代码框顶部工具栏字体顔色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个）  --hlnumber-bg: #221a0f      代码框行数背景色 【可选】(如果已经关掉 line_number,可以不用配置这个)  --hlnumber-color: #fff      代码框行数字体顔色 【可选】 (如果已经关掉 line_number,可以不用配置这个)  --hlscrollbar-bg: #d3af86   代码框滚动条顔色 【可选】（默认为主题主顔色）  --hlexpand-bg: #d3af86      代码框底部展开背景色 【可选】(如果已经关掉 highlight_height_limit,可以不用配置这个)*/:root {    --hl-color: #d3af86;    --hl-bg: #221a0f;    --hltools-bg: #321a0f;    --hltools-color: #fff;    --hlnumber-bg: #221a0f;    --hlnumber-color: #fff;    --hlscrollbar-bg: #d3af86;    --hlexpand-bg: #d3af86;  }    /* Kimbie Comment */  .hljs-comment,  .hljs-quote {    color: #d6baad;  }    /* Kimbie Red */  .hljs-variable,  .hljs-template-variable,  .hljs-tag,  .hljs-name,  .hljs-selector-id,  .hljs-selector-class,  .hljs-regexp,  .hljs-meta {    color: #dc3958;  }    /* Kimbie Orange */  .hljs-number,  .hljs-built_in,  .hljs-builtin-name,  .hljs-literal,  .hljs-type,  .hljs-params,  .hljs-deletion,  .hljs-link {    color: #f79a32;  }    /* Kimbie Yellow */  .hljs-title,  .hljs-section,  .hljs-attribute {    color: #f06431;  }    /* Kimbie Green */  .hljs-string,  .hljs-symbol,  .hljs-bullet,  .hljs-addition {    color: #889b4a;  }    /* Kimbie Purple */  .hljs-keyword,  .hljs-selector-tag,  .hljs-function {    color: #98676a;  }    /* 更改的内容 把.hljs改为 #article-container figure.highlight .hljs *、  /* ------------------------------------- */  #article-container figure.highlight .hljs {    display: block;    overflow-x: auto;    background: #221a0f;    color: #d3af86;    padding: 0.5em;  }    .hljs-emphasis {    font-style: italic;  }    .hljs-strong {    font-weight: bold;  }  ]]></content>
       
     </entry>
     
@@ -392,10 +359,21 @@
     
     <entry>
       <title></title>
-      <link href="/js/anzhiyufunction.js"/>
-      <url>/js/anzhiyufunction.js</url>
+      <link href="/css/flipcountdown.css"/>
+      <url>/css/flipcountdown.css</url>
       
-        <content type="html"><![CDATA[// 音乐绑定事件function musicBindEvent() {    document.querySelector("#nav-music .aplayer-music").addEventListener("click", function () {      anzhiyu.musicTelescopic();    });    document.querySelector("#nav-music .aplayer-button").addEventListener("click", function () {      anzhiyu.musicToggle(false);    });  }]]></content>
+        <content type="html"><![CDATA[.xdsoft_flipcountdown{display:inline-block;}.xdsoft_flipcountdown .xdsoft_digit{float:left;background-repeat:no-repeat;}.xdsoft_flipcountdown .xdsoft_clearex{clear:both;float:none;}.xdsoft_flipcountdown .xdsoft_digit{background-position:0px 0px;}.xdsoft_flipcountdown .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown .xdsoft_digit.xdsoft_dot{opacity:0.9;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit{width:53px;height:76px;background-image:url(/img/digit-lg.png);}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_dot{width:14px;background-position:-19px -4620px;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_dot{background-position:-41px -4620px;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_space{background-position:-100px -4620px;}.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit{width:36px;height:51px;background-image:url(/img/digit-md.png);}.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_dot{width:10px;background-position:-13px -3120px;}.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit{width:24px;height:34px;background-image:url(/img/digit-sm.png);}.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_dot{width:10px;background-position:-6px -2100px;}.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit{width:16px;height:23px;background-image:url(/img/digit-xs.png);}.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_dot{width:5px;background-position:-5px -1440px;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/progress_bar.css"/>
+      <url>/css/progress_bar.css</url>
+      
+        <content type="html"><![CDATA[.pace {    -webkit-pointer-events: none;    pointer-events: none;    -webkit-user-select: none;    -moz-user-select: none;    user-select: none;    z-index: 2000;    position: fixed;    margin: auto;    top: 4px;    left: 0;    right: 0;    height: 8px;    border-radius: 8px;    width: 7rem;    background: #eaecf2;    border: 1px #e3e8f7;    overflow: hidden}.pace-inactive .pace-progress {    opacity: 0;    transition: .3s ease-in}.pace .pace-progress {    -webkit-box-sizing: border-box;    -moz-box-sizing: border-box;    -ms-box-sizing: border-box;    -o-box-sizing: border-box;    box-sizing: border-box;    -webkit-transform: translate3d(0, 0, 0);    -moz-transform: translate3d(0, 0, 0);    -ms-transform: translate3d(0, 0, 0);    -o-transform: translate3d(0, 0, 0);    transform: translate3d(0, 0, 0);    max-width: 200px;    position: absolute;    z-index: 2000;    display: block;    top: 0;    right: 100%;    height: 100%;    width: 100%;    /* linear-gradient(to right, #3494e6, #ec6ead) */    background: linear-gradient(to right, #43cea2, #3866ca);    animation: gradient 2s ease infinite;    background-size: 200%}.pace.pace-inactive {    opacity: 0;    transition: .3s;    top: -8px}]]></content>
       
     </entry>
     
@@ -414,32 +392,21 @@
     
     <entry>
       <title></title>
+      <link href="/js/anzhiyufunction.js"/>
+      <url>/js/anzhiyufunction.js</url>
+      
+        <content type="html"><![CDATA[// 音乐绑定事件function musicBindEvent() {    document.querySelector("#nav-music .aplayer-music").addEventListener("click", function () {      anzhiyu.musicTelescopic();    });    document.querySelector("#nav-music .aplayer-button").addEventListener("click", function () {      anzhiyu.musicToggle(false);    });  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/js/codeblock.js"/>
       <url>/js/codeblock.js</url>
       
         <content type="html"><![CDATA[hexo.extend.filter.register('after_post_render', function (data) {    while (/<figure class="highlight ([a-zA-Z\+\-\/\#]+)">.*?<\/figure>/.test(data.content)) {        data.content = data.content.replace(/<figure class="highlight ([a-zA-Z\+\-\/\#]+)">.*?<\/figure>/, function () {            var language = RegExp.$1 || 'code'            var lastMatch = RegExp.lastMatch            if (language=='plain'){                language='code';            }            lastMatch = lastMatch.replace(/<figure class="highlight /, '<figure class="iseeu highlight ')            return '<div class="highlight-wrap" data-rel="'                + language.replace(language[0],language[0].toUpperCase()) + '">' + lastMatch + '</div>'        })    }    return data})]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/cursor.js"/>
-      <url>/js/cursor.js</url>
-      
-        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='.5'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/issues.js"/>
-      <url>/js/issues.js</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -458,10 +425,43 @@
     
     <entry>
       <title></title>
+      <link href="/js/cursor.js"/>
+      <url>/js/cursor.js</url>
+      
+        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='.5'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="issues-api sites"api="https://api.github.com/repos/[GithubUsername]/[GithubReponame]/issues?sort=updated&state=open&page=1&per_page=100&labels=active"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/js/light.js"/>
       <url>/js/light.js</url>
       
         <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
+      
+        <content type="html"><![CDATA[$(function(){    var NY = Math.round((new Date('4/17/2019 00:00:00')).getTime()/1000); //Date修改为你的建站时间。    $('#runtime').flipcountdown({      size:"xs",//可以自定义翻页计时器大小。从大到小依次是lg、md、sm、xs。      tick:function(){        var nol = function(h){          return h>9?h:'0'+h;        }        varrange  = Math.abs(Math.round((new Date()).getTime()/1000)-NY),          secday = 86400, sechour = 3600,          days = parseInt(range/secday),          hours= parseInt((range%secday)/sechour),          min= parseInt(((range%secday)%sechour)/60),          sec= ((range%secday)%sechour)%60;        return nol(days)+' '+nol(hours)+' '+nol(min)+' '+nol(sec);      }    });  });]]></content>
       
     </entry>
     
@@ -480,10 +480,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime.js"/>
-      <url>/js/runtime.js</url>
+      <link href="/js/issues.js"/>
+      <url>/js/issues.js</url>
       
-        <content type="html"><![CDATA[$(function(){    var NY = Math.round((new Date('4/17/2019 00:00:00')).getTime()/1000); //Date修改为你的建站时间。    $('#runtime').flipcountdown({      size:"xs",//可以自定义翻页计时器大小。从大到小依次是lg、md、sm、xs。      tick:function(){        var nol = function(h){          return h>9?h:'0'+h;        }        varrange  = Math.abs(Math.round((new Date()).getTime()/1000)-NY),          secday = 86400, sechour = 3600,          days = parseInt(range/secday),          hours= parseInt((range%secday)/sechour),          min= parseInt(((range%secday)%sechour)/60),          sec= ((range%secday)%sechour)%60;        return nol(days)+' '+nol(hours)+' '+nol(min)+' '+nol(sec);      }    });  });]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
