@@ -303,17 +303,6 @@
     
     
     <entry>
-      <title>便携小空调 - 为你的夏日带去清凉!</title>
-      <link href="/air-conditioner/index.html"/>
-      <url>/air-conditioner/index.html</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>终于为博客安装上了便携小空调</p></blockquote><style>.copyright-box a {  border-bottom: none !important;  padding: 0 !important;}</style><p><div id="air-conditioner-vue"></div></p><script defer data-pjax src='https://alist.anzhiy.cn/d/anzhiyu/air-conditioner-dev/index.2d8c3a3f.js'></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -325,11 +314,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/Kimbiedark.css"/>
-      <url>/css/Kimbiedark.css</url>
+      <title>便携小空调 - 为你的夏日带去清凉!</title>
+      <link href="/air-conditioner/index.html"/>
+      <url>/air-conditioner/index.html</url>
       
-        <content type="html"><![CDATA[/*    Name:     Kimbie (dark)    Author:   Jan T. Sott    License:  Creative Commons Attribution-ShareAlike 4.0 Unported License    URL:      https://github.com/idleberg/Kimbie-highlight.js*//* 新添加的内容  -------------------------------------   --hl-color                  代码框字体顔色 【必须】 (把下面.hljs的 color复制到这里来)  --hl-bg                     代码框背景色 【必须】 (把下面.hljs的 background复制到这里来)  --hltools-bg: #321a0f       代码框顶部工具栏背景色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个）  --hltools-color: #fff       代码框顶部工具栏字体顔色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个）  --hlnumber-bg: #221a0f      代码框行数背景色 【可选】(如果已经关掉 line_number,可以不用配置这个)  --hlnumber-color: #fff      代码框行数字体顔色 【可选】 (如果已经关掉 line_number,可以不用配置这个)  --hlscrollbar-bg: #d3af86   代码框滚动条顔色 【可选】（默认为主题主顔色）  --hlexpand-bg: #d3af86      代码框底部展开背景色 【可选】(如果已经关掉 highlight_height_limit,可以不用配置这个)*/:root {    --hl-color: #d3af86;    --hl-bg: #221a0f;    --hltools-bg: #321a0f;    --hltools-color: #fff;    --hlnumber-bg: #221a0f;    --hlnumber-color: #fff;    --hlscrollbar-bg: #d3af86;    --hlexpand-bg: #d3af86;  }    /* Kimbie Comment */  .hljs-comment,  .hljs-quote {    color: #d6baad;  }    /* Kimbie Red */  .hljs-variable,  .hljs-template-variable,  .hljs-tag,  .hljs-name,  .hljs-selector-id,  .hljs-selector-class,  .hljs-regexp,  .hljs-meta {    color: #dc3958;  }    /* Kimbie Orange */  .hljs-number,  .hljs-built_in,  .hljs-builtin-name,  .hljs-literal,  .hljs-type,  .hljs-params,  .hljs-deletion,  .hljs-link {    color: #f79a32;  }    /* Kimbie Yellow */  .hljs-title,  .hljs-section,  .hljs-attribute {    color: #f06431;  }    /* Kimbie Green */  .hljs-string,  .hljs-symbol,  .hljs-bullet,  .hljs-addition {    color: #889b4a;  }    /* Kimbie Purple */  .hljs-keyword,  .hljs-selector-tag,  .hljs-function {    color: #98676a;  }    /* 更改的内容 把.hljs改为 #article-container figure.highlight .hljs *、  /* ------------------------------------- */  #article-container figure.highlight .hljs {    display: block;    overflow-x: auto;    background: #221a0f;    color: #d3af86;    padding: 0.5em;  }    .hljs-emphasis {    font-style: italic;  }    .hljs-strong {    font-weight: bold;  }  ]]></content>
+        <content type="html"><![CDATA[<blockquote><p>终于为博客安装上了便携小空调</p></blockquote><style>.copyright-box a {  border-bottom: none !important;  padding: 0 !important;}</style><p><div id="air-conditioner-vue"></div></p><script defer data-pjax src='https://alist.anzhiy.cn/d/anzhiyu/air-conditioner-dev/index.2d8c3a3f.js'></script>]]></content>
       
     </entry>
     
@@ -341,6 +330,17 @@
       <url>/css/OneGraph.css</url>
       
         <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/Kimbiedark.css"/>
+      <url>/css/Kimbiedark.css</url>
+      
+        <content type="html"><![CDATA[/*    Name:     Kimbie (dark)    Author:   Jan T. Sott    License:  Creative Commons Attribution-ShareAlike 4.0 Unported License    URL:      https://github.com/idleberg/Kimbie-highlight.js*//* 新添加的内容  -------------------------------------   --hl-color                  代码框字体顔色 【必须】 (把下面.hljs的 color复制到这里来)  --hl-bg                     代码框背景色 【必须】 (把下面.hljs的 background复制到这里来)  --hltools-bg: #321a0f       代码框顶部工具栏背景色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个）  --hltools-color: #fff       代码框顶部工具栏字体顔色 【可选】(如果你关掉了 copy、lang 和 shrink,可不用配置这个）  --hlnumber-bg: #221a0f      代码框行数背景色 【可选】(如果已经关掉 line_number,可以不用配置这个)  --hlnumber-color: #fff      代码框行数字体顔色 【可选】 (如果已经关掉 line_number,可以不用配置这个)  --hlscrollbar-bg: #d3af86   代码框滚动条顔色 【可选】（默认为主题主顔色）  --hlexpand-bg: #d3af86      代码框底部展开背景色 【可选】(如果已经关掉 highlight_height_limit,可以不用配置这个)*/:root {    --hl-color: #d3af86;    --hl-bg: #221a0f;    --hltools-bg: #321a0f;    --hltools-color: #fff;    --hlnumber-bg: #221a0f;    --hlnumber-color: #fff;    --hlscrollbar-bg: #d3af86;    --hlexpand-bg: #d3af86;  }    /* Kimbie Comment */  .hljs-comment,  .hljs-quote {    color: #d6baad;  }    /* Kimbie Red */  .hljs-variable,  .hljs-template-variable,  .hljs-tag,  .hljs-name,  .hljs-selector-id,  .hljs-selector-class,  .hljs-regexp,  .hljs-meta {    color: #dc3958;  }    /* Kimbie Orange */  .hljs-number,  .hljs-built_in,  .hljs-builtin-name,  .hljs-literal,  .hljs-type,  .hljs-params,  .hljs-deletion,  .hljs-link {    color: #f79a32;  }    /* Kimbie Yellow */  .hljs-title,  .hljs-section,  .hljs-attribute {    color: #f06431;  }    /* Kimbie Green */  .hljs-string,  .hljs-symbol,  .hljs-bullet,  .hljs-addition {    color: #889b4a;  }    /* Kimbie Purple */  .hljs-keyword,  .hljs-selector-tag,  .hljs-function {    color: #98676a;  }    /* 更改的内容 把.hljs改为 #article-container figure.highlight .hljs *、  /* ------------------------------------- */  #article-container figure.highlight .hljs {    display: block;    overflow-x: auto;    background: #221a0f;    color: #d3af86;    padding: 0.5em;  }    .hljs-emphasis {    font-style: italic;  }    .hljs-strong {    font-weight: bold;  }  ]]></content>
       
     </entry>
     
@@ -381,10 +381,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/anzhiyu.js"/>
-      <url>/js/anzhiyu.js</url>
+      <link href="/js/anzhiyufunction.js"/>
+      <url>/js/anzhiyufunction.js</url>
       
-        <content type="html"><![CDATA[var anzhiyu_musicPlaying = false;var anzhiyu_musicStretch = false;var anzhiyu_musicFirst = false;var anzhiyu = {  //切换音乐播放状态  musicToggle: function (changePaly = true) {    if (!anzhiyu_musicFirst) {      musicBindEvent();      anzhiyu_musicFirst = true;    }    let msgPlay = '<i class="fa-solid fa-play"></i><span>播放音乐</span>'; // 此處可以更改為你想要顯示的文字    let msgPause = '<i class="fa-solid fa-pause"></i><span>暂停音乐</span>'; // 同上，但兩處均不建議更改    if (anzhiyu_musicPlaying) {      document.querySelector("#nav-music").classList.remove("playing");      document.getElementById("menu-music-toggle").innerHTML = msgPlay;      document.getElementById("nav-music-hoverTips").innerHTML = "音乐已暂停";      document.querySelector("#consoleMusic").classList.remove("on");      anzhiyu_musicPlaying = false;      document.querySelector("#nav-music").classList.remove("stretch");      anzhiyu_musicStretch = false;    } else {      document.querySelector("#nav-music").classList.add("playing");      document.getElementById("menu-music-toggle").innerHTML = msgPause;      document.querySelector("#consoleMusic").classList.add("on");      anzhiyu_musicPlaying = true;      document.querySelector("#nav-music").classList.add("stretch");      anzhiyu_musicStretch = true;    }    if (changePaly) document.querySelector("#nav-music meting-js").aplayer.toggle();  },  // 音乐伸缩  musicTelescopic: function () {    if (anzhiyu_musicStretch) {      document.querySelector("#nav-music").classList.remove("stretch");      anzhiyu_musicStretch = false;    } else {      document.querySelector("#nav-music").classList.add("stretch");      anzhiyu_musicStretch = true;    }  },  //音乐上一曲  musicSkipBack: function () {    document.querySelector("#nav-music meting-js").aplayer.skipBack();  },  //音乐下一曲  musicSkipForward: function () {    document.querySelector("#nav-music meting-js").aplayer.skipForward();  },  //获取音乐中的名称  musicGetName: function () {    var x = $(".aplayer-title");    var arr = [];    for (var i = x.length - 1; i >= 0; i--) {      arr[i] = x[i].innerText;    }    return arr[0];  },};addRightMenuClickEvent();]]></content>
+        <content type="html"><![CDATA[// 音乐绑定事件function musicBindEvent() {    document.querySelector("#nav-music .aplayer-music").addEventListener("click", function () {      anzhiyu.musicTelescopic();    });    document.querySelector("#nav-music .aplayer-button").addEventListener("click", function () {      anzhiyu.musicToggle(false);    });  }]]></content>
       
     </entry>
     
@@ -392,10 +392,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/anzhiyufunction.js"/>
-      <url>/js/anzhiyufunction.js</url>
+      <link href="/js/anzhiyu.js"/>
+      <url>/js/anzhiyu.js</url>
       
-        <content type="html"><![CDATA[// 音乐绑定事件function musicBindEvent() {    document.querySelector("#nav-music .aplayer-music").addEventListener("click", function () {      anzhiyu.musicTelescopic();    });    document.querySelector("#nav-music .aplayer-button").addEventListener("click", function () {      anzhiyu.musicToggle(false);    });  }]]></content>
+        <content type="html"><![CDATA[var anzhiyu_musicPlaying = false;var anzhiyu_musicStretch = false;var anzhiyu_musicFirst = false;var anzhiyu = {  //切换音乐播放状态  musicToggle: function (changePaly = true) {    if (!anzhiyu_musicFirst) {      musicBindEvent();      anzhiyu_musicFirst = true;    }    let msgPlay = '<i class="fa-solid fa-play"></i><span>播放音乐</span>'; // 此處可以更改為你想要顯示的文字    let msgPause = '<i class="fa-solid fa-pause"></i><span>暂停音乐</span>'; // 同上，但兩處均不建議更改    if (anzhiyu_musicPlaying) {      document.querySelector("#nav-music").classList.remove("playing");      document.getElementById("menu-music-toggle").innerHTML = msgPlay;      document.getElementById("nav-music-hoverTips").innerHTML = "音乐已暂停";      document.querySelector("#consoleMusic").classList.remove("on");      anzhiyu_musicPlaying = false;      document.querySelector("#nav-music").classList.remove("stretch");      anzhiyu_musicStretch = false;    } else {      document.querySelector("#nav-music").classList.add("playing");      document.getElementById("menu-music-toggle").innerHTML = msgPause;      document.querySelector("#consoleMusic").classList.add("on");      anzhiyu_musicPlaying = true;      document.querySelector("#nav-music").classList.add("stretch");      anzhiyu_musicStretch = true;    }    if (changePaly) document.querySelector("#nav-music meting-js").aplayer.toggle();  },  // 音乐伸缩  musicTelescopic: function () {    if (anzhiyu_musicStretch) {      document.querySelector("#nav-music").classList.remove("stretch");      anzhiyu_musicStretch = false;    } else {      document.querySelector("#nav-music").classList.add("stretch");      anzhiyu_musicStretch = true;    }  },  //音乐上一曲  musicSkipBack: function () {    document.querySelector("#nav-music meting-js").aplayer.skipBack();  },  //音乐下一曲  musicSkipForward: function () {    document.querySelector("#nav-music meting-js").aplayer.skipForward();  },  //获取音乐中的名称  musicGetName: function () {    var x = $(".aplayer-title");    var arr = [];    for (var i = x.length - 1; i >= 0; i--) {      arr[i] = x[i].innerText;    }    return arr[0];  },};addRightMenuClickEvent();]]></content>
       
     </entry>
     
@@ -446,17 +446,6 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="issues-api sites"api="https://api.github.com/repos/[GithubUsername]/[GithubReponame]/issues?sort=updated&state=open&page=1&per_page=100&labels=active"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/js/runtime.js"/>
       <url>/js/runtime.js</url>
@@ -473,6 +462,17 @@
       <url>/js/light.js</url>
       
         <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="issues-api sites"api="https://api.github.com/repos/[GithubUsername]/[GithubReponame]/issues?sort=updated&state=open&page=1&per_page=100&labels=active"></div>]]></content>
       
     </entry>
     
