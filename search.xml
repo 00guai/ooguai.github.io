@@ -303,22 +303,22 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>便携小空调 - 为你的夏日带去清凉!</title>
+      <link href="/air-conditioner/index.html"/>
+      <url>/air-conditioner/index.html</url>
       
-        <content type="html"><![CDATA[<!-- GitCalendar容器 --><div id="gitZone"></div>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>终于为博客安装上了便携小空调</p></blockquote><style>.copyright-box a {  border-bottom: none !important;  padding: 0 !important;}</style><div id="air-conditioner-vue"></div><script defer data-pjax src='https://alist.anzhiy.cn/d/anzhiyu/air-conditioner-dev/index.2d8c3a3f.js'></script>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>便携小空调 - 为你的夏日带去清凉!</title>
-      <link href="/air-conditioner/index.html"/>
-      <url>/air-conditioner/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<blockquote><p>终于为博客安装上了便携小空调</p></blockquote><style>.copyright-box a {  border-bottom: none !important;  padding: 0 !important;}</style><div id="air-conditioner-vue"></div><script defer data-pjax src='https://alist.anzhiy.cn/d/anzhiyu/air-conditioner-dev/index.2d8c3a3f.js'></script>]]></content>
+        <content type="html"><![CDATA[<!-- GitCalendar容器 --><div id="gitZone"></div>]]></content>
       
     </entry>
     
@@ -359,6 +359,28 @@
     
     <entry>
       <title></title>
+      <link href="/css/flipcountdown.css"/>
+      <url>/css/flipcountdown.css</url>
+      
+        <content type="html"><![CDATA[.xdsoft_flipcountdown{display:inline-block;}.xdsoft_flipcountdown .xdsoft_digit{float:left;background-repeat:no-repeat;}.xdsoft_flipcountdown .xdsoft_clearex{clear:both;float:none;}.xdsoft_flipcountdown .xdsoft_digit{background-position:0px 0px;}.xdsoft_flipcountdown .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown .xdsoft_digit.xdsoft_dot{opacity:0.9;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit{width:53px;height:76px;background-image:url(/img/digit-lg.png);}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_dot{width:14px;background-position:-19px -4620px;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_dot{background-position:-41px -4620px;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_space{background-position:-100px -4620px;}.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit{width:36px;height:51px;background-image:url(/img/digit-md.png);}.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_dot{width:10px;background-position:-13px -3120px;}.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit{width:24px;height:34px;background-image:url(/img/digit-sm.png);}.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_dot{width:10px;background-position:-6px -2100px;}.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit{width:16px;height:23px;background-image:url(/img/digit-xs.png);}.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_dot{width:5px;background-position:-5px -1440px;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="issues-api sites"api="https://api.github.com/repos/[GithubUsername]/[GithubReponame]/issues?sort=updated&state=open&page=1&per_page=100&labels=active"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/progress_bar.css"/>
       <url>/css/progress_bar.css</url>
       
@@ -370,10 +392,10 @@
     
     <entry>
       <title></title>
-      <link href="/css/flipcountdown.css"/>
-      <url>/css/flipcountdown.css</url>
+      <link href="/js/anzhiyu.js"/>
+      <url>/js/anzhiyu.js</url>
       
-        <content type="html"><![CDATA[.xdsoft_flipcountdown{display:inline-block;}.xdsoft_flipcountdown .xdsoft_digit{float:left;background-repeat:no-repeat;}.xdsoft_flipcountdown .xdsoft_clearex{clear:both;float:none;}.xdsoft_flipcountdown .xdsoft_digit{background-position:0px 0px;}.xdsoft_flipcountdown .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown .xdsoft_digit.xdsoft_dot{opacity:0.9;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit{width:53px;height:76px;background-image:url(/img/digit-lg.png);}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_dot{width:14px;background-position:-19px -4620px;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_dot{background-position:-41px -4620px;}.xdsoft_flipcountdown.xdsoft_size_lg .xdsoft_digit.xdsoft_space{background-position:-100px -4620px;}.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit{width:36px;height:51px;background-image:url(/img/digit-md.png);}.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_md .xdsoft_digit.xdsoft_dot{width:10px;background-position:-13px -3120px;}.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit{width:24px;height:34px;background-image:url(/img/digit-sm.png);}.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_sm .xdsoft_digit.xdsoft_dot{width:10px;background-position:-6px -2100px;}.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit{width:16px;height:23px;background-image:url(/img/digit-xs.png);}.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_space,.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_separator,.xdsoft_flipcountdown.xdsoft_size_xs .xdsoft_digit.xdsoft_dot{width:5px;background-position:-5px -1440px;}]]></content>
+        <content type="html"><![CDATA[var anzhiyu_musicPlaying = false;var anzhiyu_musicStretch = false;var anzhiyu_musicFirst = false;var anzhiyu = {  //切换音乐播放状态  musicToggle: function (changePaly = true) {    if (!anzhiyu_musicFirst) {      musicBindEvent();      anzhiyu_musicFirst = true;    }    let msgPlay = '<i class="fa-solid fa-play"></i><span>播放音乐</span>'; // 此處可以更改為你想要顯示的文字    let msgPause = '<i class="fa-solid fa-pause"></i><span>暂停音乐</span>'; // 同上，但兩處均不建議更改    if (anzhiyu_musicPlaying) {      document.querySelector("#nav-music").classList.remove("playing");      document.getElementById("menu-music-toggle").innerHTML = msgPlay;      document.getElementById("nav-music-hoverTips").innerHTML = "音乐已暂停";      document.querySelector("#consoleMusic").classList.remove("on");      anzhiyu_musicPlaying = false;      document.querySelector("#nav-music").classList.remove("stretch");      anzhiyu_musicStretch = false;    } else {      document.querySelector("#nav-music").classList.add("playing");      document.getElementById("menu-music-toggle").innerHTML = msgPause;      document.querySelector("#consoleMusic").classList.add("on");      anzhiyu_musicPlaying = true;      document.querySelector("#nav-music").classList.add("stretch");      anzhiyu_musicStretch = true;    }    if (changePaly) document.querySelector("#nav-music meting-js").aplayer.toggle();  },  // 音乐伸缩  musicTelescopic: function () {    if (anzhiyu_musicStretch) {      document.querySelector("#nav-music").classList.remove("stretch");      anzhiyu_musicStretch = false;    } else {      document.querySelector("#nav-music").classList.add("stretch");      anzhiyu_musicStretch = true;    }  },  //音乐上一曲  musicSkipBack: function () {    document.querySelector("#nav-music meting-js").aplayer.skipBack();  },  //音乐下一曲  musicSkipForward: function () {    document.querySelector("#nav-music meting-js").aplayer.skipForward();  },  //获取音乐中的名称  musicGetName: function () {    var x = $(".aplayer-title");    var arr = [];    for (var i = x.length - 1; i >= 0; i--) {      arr[i] = x[i].innerText;    }    return arr[0];  },};addRightMenuClickEvent();]]></content>
       
     </entry>
     
@@ -381,10 +403,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/anzhiyu.js"/>
-      <url>/js/anzhiyu.js</url>
+      <link href="/js/codeblock.js"/>
+      <url>/js/codeblock.js</url>
       
-        <content type="html"><![CDATA[var anzhiyu_musicPlaying = false;var anzhiyu_musicStretch = false;var anzhiyu_musicFirst = false;var anzhiyu = {  //切换音乐播放状态  musicToggle: function (changePaly = true) {    if (!anzhiyu_musicFirst) {      musicBindEvent();      anzhiyu_musicFirst = true;    }    let msgPlay = '<i class="fa-solid fa-play"></i><span>播放音乐</span>'; // 此處可以更改為你想要顯示的文字    let msgPause = '<i class="fa-solid fa-pause"></i><span>暂停音乐</span>'; // 同上，但兩處均不建議更改    if (anzhiyu_musicPlaying) {      document.querySelector("#nav-music").classList.remove("playing");      document.getElementById("menu-music-toggle").innerHTML = msgPlay;      document.getElementById("nav-music-hoverTips").innerHTML = "音乐已暂停";      document.querySelector("#consoleMusic").classList.remove("on");      anzhiyu_musicPlaying = false;      document.querySelector("#nav-music").classList.remove("stretch");      anzhiyu_musicStretch = false;    } else {      document.querySelector("#nav-music").classList.add("playing");      document.getElementById("menu-music-toggle").innerHTML = msgPause;      document.querySelector("#consoleMusic").classList.add("on");      anzhiyu_musicPlaying = true;      document.querySelector("#nav-music").classList.add("stretch");      anzhiyu_musicStretch = true;    }    if (changePaly) document.querySelector("#nav-music meting-js").aplayer.toggle();  },  // 音乐伸缩  musicTelescopic: function () {    if (anzhiyu_musicStretch) {      document.querySelector("#nav-music").classList.remove("stretch");      anzhiyu_musicStretch = false;    } else {      document.querySelector("#nav-music").classList.add("stretch");      anzhiyu_musicStretch = true;    }  },  //音乐上一曲  musicSkipBack: function () {    document.querySelector("#nav-music meting-js").aplayer.skipBack();  },  //音乐下一曲  musicSkipForward: function () {    document.querySelector("#nav-music meting-js").aplayer.skipForward();  },  //获取音乐中的名称  musicGetName: function () {    var x = $(".aplayer-title");    var arr = [];    for (var i = x.length - 1; i >= 0; i--) {      arr[i] = x[i].innerText;    }    return arr[0];  },};addRightMenuClickEvent();]]></content>
+        <content type="html"><![CDATA[hexo.extend.filter.register('after_post_render', function (data) {    while (/<figure class="highlight ([a-zA-Z\+\-\/\#]+)">.*?<\/figure>/.test(data.content)) {        data.content = data.content.replace(/<figure class="highlight ([a-zA-Z\+\-\/\#]+)">.*?<\/figure>/, function () {            var language = RegExp.$1 || 'code'            var lastMatch = RegExp.lastMatch            if (language=='plain'){                language='code';            }            lastMatch = lastMatch.replace(/<figure class="highlight /, '<figure class="iseeu highlight ')            return '<div class="highlight-wrap" data-rel="'                + language.replace(language[0],language[0].toUpperCase()) + '">' + lastMatch + '</div>'        })    }    return data})]]></content>
       
     </entry>
     
@@ -414,17 +436,6 @@
     
     <entry>
       <title></title>
-      <link href="/js/codeblock.js"/>
-      <url>/js/codeblock.js</url>
-      
-        <content type="html"><![CDATA[hexo.extend.filter.register('after_post_render', function (data) {    while (/<figure class="highlight ([a-zA-Z\+\-\/\#]+)">.*?<\/figure>/.test(data.content)) {        data.content = data.content.replace(/<figure class="highlight ([a-zA-Z\+\-\/\#]+)">.*?<\/figure>/, function () {            var language = RegExp.$1 || 'code'            var lastMatch = RegExp.lastMatch            if (language=='plain'){                language='code';            }            lastMatch = lastMatch.replace(/<figure class="highlight /, '<figure class="iseeu highlight ')            return '<div class="highlight-wrap" data-rel="'                + language.replace(language[0],language[0].toUpperCase()) + '">' + lastMatch + '</div>'        })    }    return data})]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/flipcountdown.js"/>
       <url>/js/flipcountdown.js</url>
       
@@ -435,11 +446,22 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<div class="issues-api sites"api="https://api.github.com/repos/[GithubUsername]/[GithubReponame]/issues?sort=updated&state=open&page=1&per_page=100&labels=active"></div>]]></content>
+        <content type="html"><![CDATA[<div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="4895239160" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/light.js"/>
+      <url>/js/light.js</url>
+      
+        <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
       
     </entry>
     
@@ -462,28 +484,6 @@
       <url>/js/issues.js</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/light.js"/>
-      <url>/js/light.js</url>
-      
-        <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[<div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="4895239160" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div>]]></content>
       
     </entry>
     
