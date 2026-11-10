@@ -1,0 +1,73 @@
+/* 文章双栏布局：适配 Butterfly 5.x（文章外面多了一层 .recent-post-items 包裹） */
+#recent-posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: flex-start;
+  margin-top: -1rem;
+}
+
+#recent-posts > .recent-post-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: flex-start;
+  width: 100%;
+}
+
+#recent-posts .recent-post-item {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+  margin-bottom: 0;
+  height: auto !important;
+  width: 49%;
+}
+
+#recent-posts .recent-post-item .post_cover {
+  width: 100%;
+  height: 200px;
+}
+
+#recent-posts .recent-post-item .post_cover img.post_bg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#recent-posts .recent-post-item > .recent-post-info > .content {
+  display: none;
+}
+
+#recent-posts .recent-post-item .left_radius,
+#recent-posts .recent-post-item .right_radius {
+  border-radius: 8px 8px 0 0;
+}
+
+#recent-posts .recent-post-item .recent-post-info {
+  padding: 0 20px;
+  margin-top: 1em;
+  width: 100% !important;
+}
+
+#recent-posts .recent-post-item .recent-post-info > .article-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+  color: var(--text-highlight-color);
+  font-size: 1.2em;
+  line-height: 1.4;
+}
+
+#recent-posts .recent-post-item .recent-post-info > .article-meta-wrap {
+  margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  #recent-posts .recent-post-item {
+    width: 100%;
+  }
+}
